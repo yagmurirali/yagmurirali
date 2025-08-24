@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Yağmur İralı</h1>
+<h3 align="center"> A passionate Computer Engineering student </h3>
 
-<!--
-**yagmurirali/yagmurirali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 3rd-year Computer Engineering student at <strong>Başkent University</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taylan-deveci/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  </a>
+  <a href="mailto:devecitaylan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
+</p>
+
+---
+
+## 🚀 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts,html,css,js" />
+</p>
+
+## 📚 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,react,spring" />
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>

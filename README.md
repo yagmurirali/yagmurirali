@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=yagmurirali&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yagmurirali&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurirali&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
